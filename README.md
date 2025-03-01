@@ -1,2 +1,2 @@
 # pixocer
-game of pockere
+game of pocker
